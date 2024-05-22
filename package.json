@@ -19,7 +19,7 @@
     "typeface-open-sans": "^0.0.75"
   },
   "engines" : { 
-    "node" : "18" 
+    "node" : "16" 
   },
   "scripts": {
     "start": "react-scripts start",
