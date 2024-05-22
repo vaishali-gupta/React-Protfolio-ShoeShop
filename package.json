@@ -18,6 +18,9 @@
     "typeface-lobster": "^0.0.72",
     "typeface-open-sans": "^0.0.75"
   },
+  "engines" : { 
+    "node" : "16" 
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
